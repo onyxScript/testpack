@@ -1,0 +1,92 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "This Pack Was Created By Siizyu\nCredit :\nKatanaBlade For The Textures",
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ],
+        "name": "§l§cVortex §f Client (Version Alpha Fixed)",
+        "uuid": "ba248c98-5ace-3486-b880-921d8900c53f",
+        "version": [
+            0,
+            2,
+            4
+        ]
+    },
+    "min_engine_version": [
+        1,
+        18,
+        0
+    ],
+    "modules": [
+        {
+            "description": "Go To Vortex Client Discord Server!!",
+            "type": "resources",
+            "uuid": "c83161a2-978e-42cf-905d-9dcd6388b2dc",
+            "version": [
+                2,
+                0,
+                0
+            ]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "All",
+            "memory_tier": 1,
+            "name": "§l§6All §fFeatures"
+        },
+        {
+            "folder_name": "Full Optimization",
+            "memory_tier": 1,
+            "name": "§l§9Full §fOptimization\n\nNotice :\nFull Optimizing"
+        },
+        {
+            "folder_name": "Botones",
+            "memory_tier": 1,
+            "name": "§l§5No Dpad - §f(Mobile Only)"
+        },
+        {
+            "folder_name": "Op",
+            "memory_tier": 1,
+            "name": "§l§cOptifine - §9Optimize\n\nNotice :\nSuper Optimizing"
+        },
+        {
+            "folder_name": "super boost",
+            "memory_tier": 1,
+            "name": "Super FPS Boost\n\nNotice:\nNormal Boosting"
+        },
+        {
+            "folder_name": "Notice!",
+            "name": "Notice :\n\nYou Need To Restart Your Minecraft Before Changing Modifications\/subpacks\n\nVersion Compatible : 1.17+\n\n\n<------- Mods\n\n              Cosmetics------->",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "rgb_vortex",
+            "name": "RGB Cape",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "red_vortex",
+            "name": "Red Cape",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "blue_vortex",
+            "name": "Blue Cape",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "none",
+            "name": "No Modifications",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "new_panorama",
+            "name": "New Panorama\/Menu Background\n\nNotice :\nChanges Background",
+            "memory_tier": 1
+        }
+    ]
+}
